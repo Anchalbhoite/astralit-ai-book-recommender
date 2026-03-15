@@ -1,17 +1,26 @@
 import express from "express";
-import mongoose from "mongoose";
+import dotenv from "dotenv";
+import cors from "cors";
+import connectDB from "./config/db";
 import bookRoutes from "./routes/books";
 import chatRoutes from "./routes/chatRoutes";
-import {Book} from "./models/Book";   
+import { Book } from "./models/Book";
+
+dotenv.config();
 
 const app = express();
+app.use(cors({
+  origin: "http://localhost:3000"
+}));
+
+// middleware
 app.use(express.json());
 
-// Routes
+// routes
 app.use("/api/books", bookRoutes);
 app.use("/api/chat", chatRoutes);
 
-// Featured Books Route
+// featured books route
 app.get("/api/books/featured", async (req, res) => {
   try {
     const books = await Book.find({ trending: true }).limit(10);
@@ -22,11 +31,13 @@ app.get("/api/books/featured", async (req, res) => {
   }
 });
 
-// DB + Server
-mongoose
-  .connect("mongodb://127.0.0.1:27017/astralit")
-  .then(() => {
-    console.log("MongoDB connected");
-    app.listen(4000, () => console.log("Server running on port 4000"));
-  })
-  .catch(err => console.log(err));
+// start server
+const startServer = async () => {
+  await connectDB();
+
+  app.listen(4000, () => {
+    console.log("🚀 Server running on port 4000");
+  });
+};
+
+startServer();

@@ -1,5 +1,5 @@
 // Mock Data for AstraLit - Easy to update and manage
-// TODO: Replace with real API calls to Spring backend
+// TODO: Replace with real API calls 
 //frontend/src/data/mockData.ts
 export interface Book {
   _id: string;

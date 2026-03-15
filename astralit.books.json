@@ -1,0 +1,405 @@
+[{
+  "_id": {
+    "$oid": "692301050d3c3663354dd356"
+  },
+  "title": "The Midnight Library",
+  "author": "Matt Haig",
+  "cover": "https://i.pinimg.com/736x/af/17/da/af17daf1515440e35fd6daf0484fb508.jpg",
+  "rating": 4.5,
+  "genre": "Fiction",
+  "description": "A dazzling novel about all the choices that go into a life well lived.",
+  "aiMatch": 95,
+  "trending": true,
+  "popularity": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd357"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "cover": "https://i.pinimg.com/1200x/20/d1/a6/20d1a65703a999cd0b39f87d7bb41c1d.jpg",
+  "rating": 4.8,
+  "genre": "selfhelp",
+  "description": "An easy and proven way to build good habits and break bad ones.",
+  "aiMatch": 92,
+  "trending": true,
+  "popularity": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd358"
+  },
+  "title": "The Silent Patient",
+  "author": "Alex Michaelides",
+  "cover": "https://i.pinimg.com/1200x/c5/85/ce/c585ce0ea039b1e689f5744045099974.jpg",
+  "rating": 4.7,
+  "genre": "Thriller",
+  "description": "A shocking psychological thriller about a woman's act of violence against her husband.",
+  "aiMatch": 88,
+  "trending": true,
+  "popularity": 92,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd359"
+  },
+  "title": "Educated",
+  "author": "Tara Westover",
+  "cover": "https://i.pinimg.com/736x/00/0c/4a/000c4ad73f0f7930c1240dba7f2f50d0.jpg",
+  "rating": 4.7,
+  "genre": "biography",
+  "description": "A memoir about a young woman who leaves her survivalist family and goes on to earn a PhD.",
+  "aiMatch": 85,
+  "trending": false,
+  "popularity": 88,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35a"
+  },
+  "title": "Project Hail Mary",
+  "author": "Andy Weir",
+  "cover": "https://m.media-amazon.com/images/I/81o4R4G+xHL._UF1000,1000_QL80_.jpg",
+  "rating": 4.6,
+  "genre": "scifi",
+  "description": "A lone astronaut must save the earth from disaster in this incredible new science-based thriller.",
+  "aiMatch": 90,
+  "trending": true,
+  "popularity": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35b"
+  },
+  "title": "Where the Crawdads Sing",
+  "author": "Delia Owens",
+  "cover": "https://i.pinimg.com/736x/96/16/3e/96163ed69acef92e4efaea8cf1fc3bd1.jpg",
+  "rating": 4.4,
+  "genre": "Fiction",
+  "description": "A coming-of-age story of a young girl raised by the marshlands of the deep South.",
+  "aiMatch": 87,
+  "trending": false,
+  "popularity": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35c"
+  },
+  "title": "The Psychology of Money",
+  "author": "Morgan Housel",
+  "cover": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=400&h=600&fit=crop",
+  "rating": 4.5,
+  "genre": "business",
+  "description": "Timeless lessons on wealth, greed, and happiness doing well with money.",
+  "aiMatch": 83,
+  "trending": true,
+  "popularity": 87,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35d"
+  },
+  "title": "Circe",
+  "author": "Madeline Miller",
+  "cover": "https://i.pinimg.com/736x/3f/52/41/3f5241a8b982421e79fb3129d18bfca3.jpg",
+  "rating": 4.6,
+  "genre": "Fantasy",
+  "description": "A stunning reimagining of the life of Circe, the sorceress from Homer's Odyssey.",
+  "aiMatch": 91,
+  "trending": false,
+  "popularity": 82,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35e"
+  },
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "cover": "https://i.pinimg.com/1200x/37/9e/6d/379e6d2e1af88e2295e6ec3b6ad3e244.jpg",
+  "rating": 4.7,
+  "genre": "History",
+  "description": "A brief history of humankind exploring how Homo sapiens came to dominate the world.",
+  "aiMatch": 89,
+  "trending": false,
+  "popularity": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd35f"
+  },
+  "title": "The Seven Husbands of Evelyn Hugo",
+  "author": "Taylor Jenkins Reid",
+  "cover": "https://i.pinimg.com/1200x/13/52/6c/13526c2522c048db7096cefef6ebdf55.jpg",
+  "rating": 4.8,
+  "genre": "Fiction",
+  "description": "A legendary film actress reveals the truth about her glamorous and scandalous life.",
+  "aiMatch": 94,
+  "trending": true,
+  "popularity": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd360"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "cover": "https://i.pinimg.com/1200x/2f/21/9b/2f219ba8a4a999a76a60eecbc8eb9372.jpg",
+  "rating": 4.2,
+  "genre": "Fiction",
+  "description": "A magical tale about following your dreams and listening to your heart.",
+  "aiMatch": 86,
+  "trending": false,
+  "popularity": 89,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd361"
+  },
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "cover": "https://i.pinimg.com/1200x/3b/5a/0f/3b5a0fbce8a9246201471c81e616b6fc.jpg",
+  "rating": 4.4,
+  "genre": "Psychology",
+  "description": "A groundbreaking tour of the mind explaining the two systems that drive the way we think.",
+  "aiMatch": 82,
+  "trending": false,
+  "popularity": 86,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd362"
+  },
+  "title": "I Don't Love You Anymore",
+  "author": "Rithvik Singh",
+  "cover": "https://i.pinimg.com/736x/50/d1/0e/50d10e3065de35c565a51152df6db229.jpg",
+  "rating": 4.6,
+  "genre": "selfhelp",
+  "description": "A heartbreaking story about falling out of love, healing, and rediscovering yourself.",
+  "aiMatch": 91,
+  "trending": true,
+  "popularity": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd363"
+  },
+  "title": "The Art of Being Alone",
+  "author": "Renuka Gavrani",
+  "cover": "https://i.pinimg.com/736x/8e/af/a8/8eafa85236508142fc820538641146c9.jpg",
+  "rating": 4.7,
+  "genre": "selfhelp",
+  "description": "A gentle guide to finding peace, clarity, and strength while being on your own.",
+  "aiMatch": 93,
+  "trending": true,
+  "popularity": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd364"
+  },
+  "title": "The Art of Letting Go",
+  "author": "Nick Trenton",
+  "cover": "https://i.pinimg.com/736x/ff/2b/01/ff2b01d6eae9e2f6a5475282cdb8f408.jpg",
+  "rating": 4.8,
+  "genre": "selfhelp",
+  "description": "A powerful breakdown of emotional healing, acceptance, and releasing past baggage.",
+  "aiMatch": 94,
+  "trending": true,
+  "popularity": 97,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd365"
+  },
+  "title": "Can We Be Strangers Again?",
+  "author": "Shrijeet Shandilya",
+  "cover": "https://i.pinimg.com/1200x/07/e2/c0/07e2c01b3470a9fe539435e639eed666.jpg",
+  "rating": 4.5,
+  "genre": "selfhelp",
+  "description": "A bittersweet story about love, heartbreak, and the painful wish to restart.",
+  "aiMatch": 89,
+  "trending": true,
+  "popularity": 92,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd366"
+  },
+  "title": "King of Pride",
+  "author": "Ana Huang",
+  "cover": "https://i.pinimg.com/736x/5e/2c/9a/5e2c9a473b975cd0dc11830092e3a31e.jpg",
+  "rating": 4.7,
+  "genre": "Romance",
+  "description": "A royal fantasy filled with political intrigue, passion, and dark secrets.",
+  "aiMatch": 92,
+  "trending": true,
+  "popularity": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd367"
+  },
+  "title": "Twisted Love",
+  "author": "Ana Huang",
+  "cover": "https://i.pinimg.com/736x/5d/95/39/5d9539c4c1b591baaabda6cc75426db9.jpg",
+  "rating": 4.6,
+  "genre": "Romance",
+  "description": "The first book in the Twisted series — a story of dangerous love, obsession, and betrayal.",
+  "aiMatch": 95,
+  "trending": true,
+  "popularity": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd368"
+  },
+  "title": "Twisted Games",
+  "author": "Ana Huang",
+  "cover": "https://i.pinimg.com/736x/b3/7c/25/b37c25c62b7ed8d416faadf933cae14f.jpg",
+  "rating": 4.7,
+  "genre": "Romance",
+  "description": "A forbidden royal romance with tension, passion, and heartbreak.",
+  "aiMatch": 94,
+  "trending": true,
+  "popularity": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd369"
+  },
+  "title": "Twisted Hate",
+  "author": "Ana Huang",
+  "cover": "https://i.pinimg.com/736x/9f/ad/40/9fad40b5668374c4eaf68ef9e9b429ba.jpg",
+  "rating": 4.6,
+  "genre": "Romance",
+  "description": "An enemies-to-lovers romance full of fire, tension, and emotional wounds.",
+  "aiMatch": 93,
+  "trending": false,
+  "popularity": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36a"
+  },
+  "title": "Twisted Lies",
+  "author": "Ana Huang",
+  "cover": "https://i.pinimg.com/736x/e2/93/ab/e293ab5961754c20769be3013b702f1e.jpg",
+  "rating": 4.8,
+  "genre": "Romance",
+  "description": "The final Twisted novel — a dangerous love between a liar and a woman with a past.",
+  "aiMatch": 96,
+  "trending": true,
+  "popularity": 99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36b"
+  },
+  "title": "Junji Ito Horror Collection",
+  "author": "Junji Ito",
+  "cover": "https://i.pinimg.com/1200x/72/3a/15/723a15e0b725c69eca8f2e869162420e.jpg",
+  "rating": 4.9,
+  "genre": "Horror",
+  "description": "A terrifying anthology of grotesque, surreal, chilling stories by the master of horror.",
+  "aiMatch": 98,
+  "trending": true,
+  "popularity": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36c"
+  },
+  "title": "Rich Dad Poor Dad",
+  "author": "Robert Kiyosaki",
+  "cover": "https://i.pinimg.com/1200x/55/e9/d9/55e9d9d2241b88e9c0bc2e951febb92d.jpg",
+  "rating": 4.3,
+  "genre": "Business",
+  "description": "A classic guide to financial independence and wealth-building mindset.",
+  "aiMatch": 84,
+  "trending": false,
+  "popularity": 88,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36d"
+  },
+  "title": "Naruto, Vol. 1: Naruto Uzumaki",
+  "author": "Masashi Kishimoto",
+  "cover": "https://i.pinimg.com/736x/f7/d7/6f/f7d76fd1ceaf895c0d6534b191dcf063.jpg",
+  "rating": 4.9,
+  "genre": "Manga",
+  "description": "The beginning of Naruto's journey to become the world’s greatest ninja.",
+  "aiMatch": 97,
+  "trending": true,
+  "popularity": 99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36e"
+  },
+  "title": "Attack on Titan, Vol. 1",
+  "author": "Hajime Isayama",
+  "cover": "https://i.pinimg.com/736x/d6/db/56/d6db56701eb303d9dd3cddab3afb4701.jpg",
+  "rating": 4.8,
+  "genre": "Manga",
+  "description": "Humanity fights for survival against man-eating Titans.",
+  "aiMatch": 95,
+  "trending": true,
+  "popularity": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd36f"
+  },
+  "title": "Death Note, Vol. 1",
+  "author": "Tsugumi Ohba & Takeshi Obata",
+  "cover": "https://i.pinimg.com/736x/66/60/35/6660352229c21c3d24fa26ff6755181a.jpg",
+  "rating": 4.9,
+  "genre": "Manga",
+  "description": "A brilliant student discovers a notebook that can kill anyone whose name is written in it.",
+  "aiMatch": 96,
+  "trending": true,
+  "popularity": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692301050d3c3663354dd370"
+  },
+  "title": "Your Name",
+  "author": "Makoto Shinkai",
+  "cover": "https://i.pinimg.com/736x/40/f0/51/40f0511d9bb54f1983a125197cd898b6.jpg",
+  "rating": 4.8,
+  "genre": "Manga",
+  "description": "A breathtaking romantic fantasy about two strangers connected by fate.",
+  "aiMatch": 94,
+  "trending": true,
+  "popularity": 97,
+  "__v": 0
+}]
